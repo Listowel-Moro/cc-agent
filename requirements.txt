@@ -1,0 +1,5 @@
+strands-agents>=1.23.0
+strands-agents-tools>=0.2.19
+mcp>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
